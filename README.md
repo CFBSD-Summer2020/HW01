@@ -1,14 +1,25 @@
-# HW01. Ricardo's Bio
+# HW01. Ricardo Muñiz's Bio
 
 ## Introduction
 
-> Omnia dicta fortiora si dicta Latina
+Hi, my name is **Ricardo Muñiz Trejo**, I'm **27** years old, and I'm **mexican**. I was admitted into the **Ecology & Evolution** PhD program. I'm very excited to get to know everyone! 
 
-Hi, my name is *Ricardo Muñiz Trejo*, I'm *27* years old, and I'm *mexican*. _I majored in Biology at the National Autonomoues University of Mexico_
+## Education
 
+I majored in *Biology* at the *National Autonomous University of Mexico*. Later, I got my master's degree in *Biochemistry* at the same University.
 
-Favorite movies
-* Spirited Away ::ghost::
-* Gran Torino ::red_car::
-* Your name ::couple::
+I work at the Physical-Chemistry and Protein Engineering Lab. This lab is very big, since there are five PIs:
+
+* Dr. Georgina Garza
+* Dr. Alejandro Sosa
+* Dr. Mario Calcagno
+* Dr. Ismael Bustos
+* Dr. Alejandro Fernández (my boss)
+
+Here a recent photo of the members of the lab:
+
+![LFQIP](/LFQIP_photo.jpg)
+
+You can folow me on Twitter (https://twitter.com/tmr_68) but be mindful that mine isn't an academic account, so expect a lot of inane stuff.
+
 

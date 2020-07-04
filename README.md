@@ -1,2 +1,6 @@
 # HW01
-Edit the readme
+#My edit
+r <- 8
+r + r
+
+

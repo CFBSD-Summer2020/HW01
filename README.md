@@ -10,4 +10,4 @@ r + r
 * I just finished reading *An American Marriage*; I recommend it.
 * I really enjoyed watching ATLA last month; it was **really good**.
 * Here is a link to [github](www.github.com)
-* Here is a meme I enjoy ![image](/Users/JuliaShangguan/Desktop/Image-1.jpeg){width=250px}
+* Here is a meme I enjoy ![meme](Image-1.jpeg){width=250px}

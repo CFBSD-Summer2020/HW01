@@ -18,8 +18,8 @@ I work at the Physical-Chemistry and Protein Engineering Lab. This lab is very b
 
 Here a recent photo of the members of the lab:
 
-![LFQIP](/LFQIP_photo.jpg)
+![LFQIP](C:/Users/Ricardo/Dropbox/E&E_PhD/Courses/Quantitative Biology Datacamp Summer 2020/HW01/LFQIP_photo.jpg)
 
-You can folow me on Twitter (https://twitter.com/tmr_68) but be mindful that mine isn't an academic account, so expect a lot of inane stuff.
+You can folow me on Twitter [@tmr_68](https://twitter.com/tmr_68 "my twitter account") but be mindful that mine isn't an academic account, so expect a lot of inane stuff.
 
 

@@ -16,4 +16,4 @@ I moved to the capital of Colombia, named Bogota, to study **Biology**. There I 
 
 * Papallacta, Ecuador
 
-![View of the Antisana Volcano from Papallacta](/Users/laura/Dropbox/A-Myioborus/photos/Papallacta/DSC_0391.JPG)
+![View of the Antisana Volcano from Papallacta](https://www.dropbox.com/home/A-Myioborus/photos/Papallacta?preview=DSC_0392.JPG)

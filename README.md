@@ -1,17 +1,16 @@
 # HW01
-Edit the readme
 
-#Practicing editing the file, saving, committing, and pushing
+** Editing the file, saving, committing, and pushing to GitHub
 
-#Also, practicing using Markdown with:
+Also, practicing using Markdown with:
 
-#Headers
-#Emphasis
-#Lists
-#Images
-#Links
+* Headers
+* Emphasis
+* Lists
+* Images
+* Links
 
-# **A couple of words about me**
+## **A couple of words about me**
 
 *My name is Viola. I'm originally from Poland but have lived in Chicago since 2014. I'm a student in Biochemistry and Molecular Biophysics program. In my thesis work I'm trying to understand the molecular basis of wiring of the nervous system.*
 

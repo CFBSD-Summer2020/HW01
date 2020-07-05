@@ -1,6 +1,8 @@
 # HW01
 
-** Editing the file, saving, committing, and pushing to GitHub
+** Homework goal **
+
+Editing the file, saving, committing, and pushing to GitHub
 
 Also, practicing using Markdown with:
 

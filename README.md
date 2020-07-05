@@ -18,6 +18,8 @@ Also, practicing using Markdown with:
 
 ![Me](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/103291705_3698839396799049_5766088491592555167_o.jpg?_nc_cat=107&_nc_sid=85a577&_nc_ohc=dzUGXIYm7XoAX-LIhYH&_nc_ht=scontent-ort2-2.xx&oh=9885d5cc736e4f278f927c12fa7e9810&oe=5F28BB13)
 
+<img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/103291705_3698839396799049_5766088491592555167_o.jpg?_nc_cat=107&_nc_sid=85a577&_nc_ohc=dzUGXIYm7XoAX-LIhYH&_nc_ht=scontent-ort2-2.xx&oh=9885d5cc736e4f278f927c12fa7e9810&oe=5F28BB13" width="200" height="200" />
+
 ## Some of my interests outside from lab include:
 * psychology
 * mental health awareness

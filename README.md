@@ -4,14 +4,16 @@
 
 ### Biography   
 
-Hi all! My name is Patrick Haller. I was born and raised in Basel, Switzerland, until I moved to the U.S. at the age of 16. This past spring, I graduated from the [University of Miami](https://welcome.miami.edu/), where I worked in a *Schizosaccharomyces pombe* lab. In the fall, I'll be joining the **BMB** program at UChicago.   
+Hi all! My name is Patrick Haller, and I am an incoming **Biochemistry and Molecular Biophysics** student. I was born and raised in Basel, Switzerland. Here's a picture of my hometown:   
 
-In my spare time, I really enjoy playing soccer and staying active.   
-Additionally, I also like to:   
+I moved to the U.S. at the age of 16, and this past spring, I graduated from the [University of Miami](https://welcome.miami.edu/). There, I worked in a *Schizosaccharomyces pombe* lab.    
+
+Outside of school, I like to:   
+- stay active, especially play soccer
 - watch new movies and listen to music   
-- spend time with family and friends   
+- travel and explore new places   
 
-That's about it from me
+
 
 
 

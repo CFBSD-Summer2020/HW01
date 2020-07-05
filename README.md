@@ -13,4 +13,4 @@ In my free time, I like to:
 
 I am new to [Github](http://github.com) but hoping to learn a lot!
 
-Here is ![a picture of me.](/HW01/IMG_1437.JPG)
+Here is ![a picture of me](IMG_1437.JPG) drinking horchata.

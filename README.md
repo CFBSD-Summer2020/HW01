@@ -1,6 +1,6 @@
 # HW01
 
-# ** Homework goal **
+# Homework goal
 
 Editing the file, saving, committing, and pushing to GitHub
 

@@ -1,2 +1,6 @@
 # HW01
-Edit the readme
+Honorine Destain
+05 July 2020
+
+"Science does not know its debt to the imagination."
+-Ralph Waldo Emerson

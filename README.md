@@ -33,3 +33,7 @@ I attached a picture of my hometown in Poland - **Wroclaw**.
 And here, you can learn more about its history:
 
 [Wroclaw's history](https://en.wikipedia.org/wiki/Wroc%C5%82aw)
+
+Pierogi anyone?
+
+<img src="https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18170528/051121068-01-boiled-potato-pierogi-recipe-main.jpg" width="600" height="500" />

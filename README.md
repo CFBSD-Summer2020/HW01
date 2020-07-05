@@ -1,4 +1,4 @@
-# HW01
+# HW01 Sherzod Tokamov
 Edit the readme
 
 # Student bio

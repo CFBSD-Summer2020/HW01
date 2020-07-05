@@ -1,15 +1,28 @@
-# HW01
-Edit the readme
+---
+title: "Biography Markdown"
+author: "Maria Evers"
+date: "7/5/2020"
+output: html_document
+---
 
-# HW part 1: practice making some changes for HW1
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-# HW part 2 / biography: Hello everyone
+## R Markdown
 
-### My name is **Maria Evers** an I am an incoming first year cancer biology PhD student at UChicago. Here are some fun facts about me:
-  + I am from Ohio
-  + I got my BS in biological sciences from Ohio University. *Go bobcats!*
-  + I have a kitten named Kiwi 
-  ![Kiwi Sprout](https://www.instagram.com/p/CBTSFS7hbKp/?utm_source=ig_web_copy_link)
-  
-  
-  
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+
+## Hello everyone!!
+
+### My name is **Maria Evers** and I am an incoming first year cancer biology PhD student at UChicago.
+
+### Here are some fun facts about me:
+* I am from Ohio
+* I got my BS in Biological Sciences at Ohio University. *Go bobcats!*
+* I have a kitten named Kiwi
+![Kiwi Sprout](Kiwi.JPG)
+
+### Shameless research plug:
+[Read about my lab's research here](https://www.ohio.edu/medicine/news-center/news/nih-funds-faculty-research-how-cancers-grow-and-spread)

@@ -6,4 +6,3 @@ Edit the readme
 * *Last Name*: **Tokamov**
 * *Institution*: **University of Chicago**
 * *Program*: **Development, Regeneration, and Stem Cell Biology**
-

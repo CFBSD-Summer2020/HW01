@@ -1,6 +1,4 @@
 # HW01
-Honorine Destain
-05 July 2020
+Edit the readme
 
-"Science does not know its debt to the imagination."
--Ralph Waldo Emerson
+"This is a line from RStudio"

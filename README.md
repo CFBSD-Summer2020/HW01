@@ -6,7 +6,7 @@ Edit the readme
 #Also, practicing using Markdown with:
 
 #Headers
-#Emphasis (italics or bold)
+#Emphasis
 #Lists
 #Images
 #Links

@@ -12,5 +12,3 @@ In my free time, I like to:
 * Read books
 
 I am new to [Github](http://github.com) but hoping to learn a lot!
-
-Here is ![a picture of me.](/HW01/IMG_1437.JPG)

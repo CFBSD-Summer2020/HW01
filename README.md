@@ -1,7 +1,6 @@
 # HW01
 ## BSDG R
 ### Learning to code in R 
-Edit the readme
 My name is **zeeshan Banday**
 I am new to R and git
 I work with the proteins of the *genes*

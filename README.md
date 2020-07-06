@@ -1,8 +1,9 @@
 # HW01
 ## Xingruo (Summer) Zhang
+
 ![My Headshot](Xingruo Zhang.png)
 
-*Education*: I recently graduated from UCLA with majors in Statistics and Economics. I will be joinng UChicago for the Public Health Sciences program this fall.  
+*Education*: I recently graduated from UCLA with majors in Statistics and Economics. I will be joinng UChicago for the Public Health Sciences PhD program this fall.  
 
 *Interests*: Below would be a list of things that excite me.  
 

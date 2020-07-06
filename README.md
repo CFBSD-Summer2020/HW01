@@ -20,6 +20,6 @@ Anyways, something I'm really excited about research- or school-wise are:
 
 I figured I should add a picture of **Margie** as this is kinda important. 
 
-![Here we go](https://github.com/beiwo07/HW01/blob/master/image0.png)
+![Here we go](C:\R files\beiwo07_gitrepo\HW01\image0.png)
 
 

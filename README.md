@@ -14,18 +14,18 @@ Though I'm deep-rooted in Illinois, both of my parents grew up in **Poland**, so
   + [My Instagram](http://www.instagram.com/oliviapura/)
   + [My Dog's Instagram](http://www.instagram.com/bambi.bernedoodle/)
   + [Facebook](http://www.facebook.com/oliviapura1/)
-<br>  
+<br><br> 
 * **Some Fun Facts**
   + I **love** Crocs, and own 3 pairs. Sadly, they're not lab-approved :(
   + My Pokémon card collection is both impressive and concerning in size
   + Concerts and **music festivals** are my happy place - I listen to all music, but my favorite is **EDM**
-<br>  
+<br><br>
 * **Non-Science Hobbies:**
   + Fitness
   + Baking
   + Bullet Journaling
   + Pageants (I will actually be competing at Miss USA this year, which I'm very excited for!)
-  <br>
+<br><br>
 
 ***
 Hopefully, I'll get to know many of you in real life soon! Mrs. 'Rona has definitely been a lot to swallow for an extrovert like me. To finish, I'll leave y'all with my favorite quote at the moment and a photo of my bernadoodle, Bambi:

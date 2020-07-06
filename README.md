@@ -15,7 +15,9 @@
 * yoga, kayaking, & Marathons  
 * board games **(recently intrigued me since we started to stay at home for most of the time)**  
     + Azul, Mr. Jack, Scrabble  
-    
+
+
+
     
     
 

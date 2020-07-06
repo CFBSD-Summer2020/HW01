@@ -11,8 +11,6 @@ A few of my scientific interests are:
 * cardiology
 
 
-![Here is a photo of me^](/Users/rnahe/OneDrive/Pictures/john.jpg)
-
 Here is my lab's website:
 http://www.ruthenlab.org/
 

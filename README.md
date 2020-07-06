@@ -1,7 +1,7 @@
 # HW01
 ## Xingruo (Summer) Zhang
 
-![My Headshot](Xingruo Zhang.png)
+![My Headshot](https://github.com/zhangxingruo/HW01/blob/master/Xingruo%20Zhang.png)
 
 *Education*: I recently graduated from UCLA with majors in Statistics and Economics. I will be joinng UChicago for the Public Health Sciences PhD program this fall.  
 

@@ -13,4 +13,6 @@ I was born and grew up in San Francisco's **Chinatown**. I went to UCSD and UCLA
 * Cheng and Cho lab
 * Shen Lab
 
-![GitHub Logo](/Users/jerrylee/Downloads/IMG_0752)
+![The boba shop I frequent the most.](IMG_0752.jpg)
+
+[Teaspoon website] (https://www.teaspoonlife.com)

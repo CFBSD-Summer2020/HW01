@@ -12,3 +12,8 @@ Here is a list of animals I have helped raise
 * foxes
 * squirrels
 * rabbits
+
+Here are some pictures of the babies
+![Deer](This PC/Documents/Summer 2020/deer.jpg)
+![Racoon](ThisPC/Documents/Summer2020/racoon.jpg)
+![Possum](This PC/Documents/Summer 2020/possum.jpg)

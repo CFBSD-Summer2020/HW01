@@ -26,7 +26,7 @@ developemental biology. I'm so stoked to be attending UChicago this fall. Can't
 wait to meet all of my fellow trainees. 
 To wrap up the features, here's a bullet list of a few of my hobbies and 
 interests:
-*Sufing
+* Sufing
 * Backpacking and camping
 * Reading, mostly Sci-fi
 * Evolutionary biology, still a dinosaur nut

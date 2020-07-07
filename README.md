@@ -1,6 +1,6 @@
 # HW01
 
-###Biography of Nick
+### Biography of Nick
 
 Howdy! I'm Nick Elliott, a new DRSB recruit. I'll keep this short and sweet, 
 just like me. I grew up in the small town of Ramona, east of San Diego. 
@@ -27,9 +27,9 @@ wait to meet all of my fellow trainees.
 To wrap up the features, here's a bullet list of a few of my hobbies and 
 interests:
 *Sufing
-*Backpacking and camping
-*Reading, mostly Sci-fi
-*Evolutionary biology, still a dinosaur nut
-*DnD, since quarantine at least
+* Backpacking and camping
+* Reading, mostly Sci-fi
+* Evolutionary biology, still a dinosaur nut
+* DnD, since quarantine at least
 
-###End
+### End

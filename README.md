@@ -15,5 +15,5 @@ Here is a list of animals I have helped raise
 
 Here are some pictures of the babies
 ![Deer](https://i.imgur.com/vCrzDbD.jpg)
-![Racoon](https://imgur.com/oQCPfSo)
+![Racoon](https://i.imgur.com/oQCPfSo.jpg)
 ![Possum](https://i.imgur.com/IvWdbxb.jpg)

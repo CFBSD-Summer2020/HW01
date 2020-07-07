@@ -1,2 +1,3 @@
 # HW01
-Edit the readme
+
+my first hw assignment.

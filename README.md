@@ -14,6 +14,6 @@ Here is a list of animals I have helped raise
 * rabbits
 
 Here are some pictures of the babies
-![Deer](https://photos.google.com/photo/AF1QipPUHuYRHUqEW8OVScCTuri9dirlCEjgPQitRYIX)
-![Racoon](https://photos.google.com/photo/AF1QipNlN7cg5KRGOOCNq33FjwWYfQe8txxCbf7B73ko)
-![Possum](https://photos.google.com/photo/AF1QipPcOmfpl_gevnmrxTIv3MCwOru9sZDaMl3PpFIg)
+![Deer](https://i.imgur.com/vCrzDbD.jpg)
+![Racoon](https://imgur.com/oQCPfSo)
+![Possum](https://i.imgur.com/IvWdbxb.jpg)

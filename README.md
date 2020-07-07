@@ -1,4 +1,4 @@
-# HW01: A Brief Introduction of My Self
+# HW01: A Brief Introduction of Myself
 
 ## Who am I
 
@@ -10,7 +10,7 @@ Here is a photo of me:
 
 ![Yujia and the alpaca](Yujia_and_the_alpaca.jpg)
 
-<center><small>Yujia and the alpaca</small></center>
+<div align="center" style="font-size: 0.8em;">Yujia and the alpaca</div>
 
 ## Cuisines in my hometown
 

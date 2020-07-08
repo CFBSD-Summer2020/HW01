@@ -11,6 +11,6 @@ Places I've lived
 * Cape Elizabeth, Maine
 * Poughkeepsie, New York
 
-I am a research tech at [Weill Cornell Medicine] (https://weill.cornell.edu/)
+I am a research tech at [Weill Cornell Medicine](https://weill.cornell.edu/)
 
-![Profile picture] (https://www.facebook.com/public/Monty-Kwan/)
+[Github photo](www.github.com/kwanm.png)

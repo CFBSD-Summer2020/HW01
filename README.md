@@ -32,7 +32,7 @@ I graduated from the [University of Pennsylvania](https://www.upenn.edu/) in 201
   
 This is a photo I took earlier this summer in the neighborhood I used to live in: 
 
-<img src="Mural.jpg" width="750">  
+![ScreenShot](Mural.jpg)
 
 
 

@@ -17,7 +17,7 @@
 2. [ __Above and Beyond__ ](https://www.aboveandbeyond.nu/)
 3. [ _**RUFUS DU SOL**_ ](https://www.rufusdusol.com/joshuatree)
 
-"Procrastinate now, don't put it off." <br>
+>"Procrastinate now, don't put it off." <br>
 -*Ellen DeGeneres* 
 
 
@@ -26,3 +26,6 @@ I am a research tech at [Weill Cornell Medicine](https://weill.cornell.edu/), an
 ![](https://www.hpcismart.com/images/website/ManChemNews/DIR_135/F_81654.jpg)
 
 ![Github photo](https://avatars2.githubusercontent.com/u/67725037?v=4)
+
+![](happy.png) 
+ 

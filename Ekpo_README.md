@@ -6,7 +6,7 @@ Hello, my name is Idongesit Ekpo and I have lived in Utah for the past **four ye
   * One hobby I developed as a result of living in Utah. Utah has **MOUNTAINS** everywhere. Here's a picture of Deer Valley Mountain 
 ![Deer Valley](https://lifedonewell.today/wp-content/uploads/2018/06/deer-valley-mountains.jpg) 
 * Meeting new people 
-* Weight Lifting 
+* Weight Lifting
 * Participating in adrenaline activities.
   * I'm currently looking into crazy bungee jumps. 
 [THE WORLD’S CRAZIEST BUNGEE JUMPS](https://www.isango.com/theguidebook/worlds-craziest-bungee-jumps/)

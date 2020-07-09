@@ -18,7 +18,6 @@ Some of my hobbies/interests:
 * Running
    * Heading along the lakeshore in the mornings, give me a shout if you also like running! 
 
-<center>
 ![View from one of the downtown Winnipeg parks!](https://i.pinimg.com/originals/eb/bf/96/ebbf9686a19a8fadff95b3479e5e5fe6.jpg)
 
 

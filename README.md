@@ -19,7 +19,7 @@ Some of my hobbies/interests:
    * Heading along the lakeshore in the mornings, give me a shout if you also like running! 
 
 <center>
-![One particularly bad winter back home in Winnipeg!](images/Snowed in.JPG)
+![View from one of the downtown parks!](https://i.pinimg.com/originals/eb/bf/96/ebbf9686a19a8fadff95b3479e5e5fe6.jpg)
 
 
 

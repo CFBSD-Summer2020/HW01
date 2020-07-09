@@ -28,4 +28,3 @@ I am a research tech at [Weill Cornell Medicine](https://weill.cornell.edu/), an
 ![Github photo](https://avatars2.githubusercontent.com/u/67725037?v=4)
 
 ![](happy.png) 
- 

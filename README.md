@@ -3,5 +3,5 @@
 ### Bio: 
 - Pharmacology Fellow
 - Second Year
-  - UChicago Medicine ![Uchicago Medicine](https://www.google.com/search?q=uchicago+medicine&rlz=1C1GCEU_enUS859US860&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKyrS9zsvqAhUCbc0KHaA2AiYQ_AUoA3oECCAQBQ&biw=1536&bih=754#imgrc=OAEka99w0eoT8M)
+  - UChicago Medicine ![Uchicago Medicine](https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/UChicago-Medicine-Selects-Life-Image%E2%80%99s-Breast-Health-Data-Tool-1.png)
   - UChicago Medicine [link](https://www.uchicagomedicine.org/)
